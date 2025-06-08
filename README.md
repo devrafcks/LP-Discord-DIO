@@ -4,7 +4,7 @@
 
 Reprodução responsiva da landing page do Discord desenvolvida como desafio do bootcamp da Digital Innovation One. O projeto foca na implementação de layouts adaptáveis usando CSS moderno.
 
-[Veja o resultado](devrafcks.github.io/LP-Discord-DIO/)
+[Veja o resultado](https;//devrafcks.github.io/LP-Discord-DIO/)
 
 
 ##  Objetivos
